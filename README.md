@@ -1,4 +1,6 @@
 # Logistic-Regression
-Generally, the Supervised Learning Algorithm used for predicting class is Logistic Regression. Here, we have 2 features 'x1' & 'x2' and a target variable with 3 classes - 'Approved', 'Onhold' and 'Reject'.
- Initially, data has been randomly created, then splitted and scaled the data for performing logistic regression. Later, performed logistic regression with input as training dataset. Once, done with the training, we evaluate the model with the testing data to calculate evaluation metrics like accuracy score & recall score(f1 score)
-Atlast, we Visualize the data to understand the working of model visually.
+Logistic Regression is a commonly used supervised learning algorithm for classifying data. In this scenario, we have two features, 'x1' and 'x2', and a target variable with three classes: 'Approved', 'Onhold', and 'Reject'. The data was randomly generated and then split into training and testing sets. We also performed feature scaling to ensure consistent measurement scales.
+
+Next, we applied logistic regression on the training dataset to train the model. After training, we evaluated the model's performance using the testing data and calculated evaluation metrics such as accuracy score and recall score (f1 score).
+
+Finally, we visualized the data to gain a better understanding of how the model works and how the different classes are separated.
